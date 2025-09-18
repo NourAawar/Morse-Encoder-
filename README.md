@@ -45,6 +45,7 @@ ASCII comparisons and branching managed differentiating between letters, digits,
 Lowercase letters were transformed into uppercase letters using a subtraction of 32 from their ASCII values, relying on the standard ASCII table.
 
 **4. Testing and Validation**
+
 We tested the program of RARS with various input cases including: lowercase and uppercase letters, digis from 0-9, and mixed inputs and spaces.
 
 **5. Conclusion**
