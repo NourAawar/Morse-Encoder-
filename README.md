@@ -1,4 +1,4 @@
-# Morse-Encoder-
+# Morse Encoder
 
 **1. Project Overview**
 
