@@ -23,11 +23,11 @@ c- Then, the message is read, and the original input is printed back, followed b
 - A single string stores the Morse Equivalents of A-Z and 0-9. Note that they are separated by spaces.
 - A lookup index is calculated based on the ASCII value of each character as follows:
 
-• ‘A’ – ‘Z’: indices 0-25
+  • ‘A’ – ‘Z’: indices 0-25
 
-• ‘a’ – ‘z’: first converted to uppercase, then treated as ‘A’ – ‘Z’
+  • ‘a’ – ‘z’: first converted to uppercase, then treated as ‘A’ – ‘Z’
 
-• ‘0’ – ‘9’: indices 26-35
+  • ‘0’ – ‘9’: indices 26-35
 
 **2.3. Character Processing**
 - The program loops through each character of the input string.
