@@ -19,8 +19,11 @@ The application illustrates:
 **2. Design Implementation**
 
 **2.1. Input and Output**
+
 a- At the beginning, the program prints a message which tells the user to enter a message.
+
 b- After that, it reads the message into a buffer with a size of 100 bytes.
+
 c- Then, the message is read, and the original input is printed back, followed by the
 “Morse: “ label and encoded message.
 
