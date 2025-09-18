@@ -9,8 +9,8 @@ b- Use of .data and .text segments effectively.
 c- Manipulation of ASCII values.
 d- String scanning and processing.
 e- Basic loop and conditional constructs in RISC-V.
-
-**2. Design Implementation**
+/n
+**2. Design Implementation**/n
 **2.1. Input and Output**
 a- At the beginning, the program prints a message which tells the user to enter a message.
 b- After that, it reads the message into a buffer with a size of 100 bytes.
