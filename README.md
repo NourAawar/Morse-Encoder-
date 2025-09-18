@@ -53,4 +53,5 @@ Lowercase letters were transformed into uppercase letters using a subtraction of
 We tested the program of RARS with various input cases including: lowercase and uppercase letters, digis from 0-9, and mixed inputs and spaces.
 
 **5. Conclusion**
+
 This project allowed my team and I to apply the fundamental concepts from the course EECE 321 (Computer Organization) such as register operations, memory management, control flow, and string processing in assembly language. It enhanced our understanding of low-level programming and RISC-V architecture by simulating a real-world encoder application. We successfully developed a functional Morse code in RISC-V that met the specified requirements and provided clean and readable code.
