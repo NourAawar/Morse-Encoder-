@@ -2,7 +2,7 @@
 
 **1. Project Overview**
 
-This project implements a Morse Code Encoder using RISC-V assembly language.It informs the user for an alphanumeric string and transforms each character (A-Z, a-z, 0-9) into its corresponding Morse code representation. Then, the encoded output is printed to the console
+This project implements a Morse Code Encoder using RISC-V assembly language. It informs the user for an alphanumeric string and transforms each character (A-Z, a-z, 0-9) into its corresponding Morse code representation. Then, the encoded output is printed to the console
 using RARS (RISC-V Assembler and Runtime Simulator).
 The application illustrates:
 
